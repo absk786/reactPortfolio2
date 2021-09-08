@@ -6,20 +6,19 @@ function Nav () {
         <header>
             <div>
                 <nav>
-                    <NavLink to ='/'>
+                    <NavLink to ='/' className="buttonstyle">
                         Home
                     </NavLink>
-                    <NavLink to='/about'>
+                    <NavLink to='/about' className="buttonstyle">
                         About
                     </NavLink>
-                    <NavLink to='/projects'>
+                    <NavLink to='/projects' className="buttonstyle">
                         Projects
                     </NavLink>
-
+                    
+                    <a className="buttonstyle" href="mailto:rehmank11@gmail.com">Lets connect</a>
 
                 </nav>
-
-
             </div>
 
         </header>
