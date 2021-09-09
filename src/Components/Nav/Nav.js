@@ -13,11 +13,11 @@ function Nav () {
                         About
                     </NavLink>
                     <NavLink to='/projects' className="buttonstyle">
-                        Projects
+                        Portfolio
                     </NavLink>
-                    
-                    <a className="buttonstyle" href="mailto:rehmank11@gmail.com">Lets connect</a>
-
+                    <NavLink to='/contact' className="buttonstyle">
+                        Contact
+                    </NavLink>
                 </nav>
             </div>
 
