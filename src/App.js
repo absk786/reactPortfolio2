@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
     <Nav/>
     <Switch >
-        <Route exact path='/' render = {()=> { return (<Redirect to='/'/>)}}/>
+        {/* <Route exact path='/' render = {()=> { return (<Redirect to='/'/>)}}/> */}
         <Route component={Home} path='/' exact/>
         <Route component={About} path='/about'/>
         <Route component={Projects} path='/projects'  />
