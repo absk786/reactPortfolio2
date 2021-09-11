@@ -6,7 +6,7 @@ import './App.css';
 import Nav from "./Components/Nav/Nav";
 import Footer from "./Components/Footer/footer";
 import ContactForm from "./Components/Contact/index";
-import { Redirect } from "react-router";
+// import { Redirect } from "react-router";
 
 function App() {
   return (
