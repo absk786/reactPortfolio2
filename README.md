@@ -4,7 +4,8 @@
 ## Name: Abdul Khalil 
 
 ## [GitHub](https://github.com/absk786)
-
+## [Deployed link](https://absk786.github.io/reactPortfolio2/)
+## ![Deployed project](my-app/app.png)
 ## Table of Contents:
 * [Description](https://github.com/absk786/assignment7/blob/main/README.md#Description)
 * [Installation](https://github.com/absk786/assignment7/blob/main/README.md#Installation)
